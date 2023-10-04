@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\Voting\bin\Debug\net7.0\Voting.exe
+C:\.NET\CsharpChallenges\Voting\bin\Debug\net7.0\Voting.deps.json
+C:\.NET\CsharpChallenges\Voting\bin\Debug\net7.0\Voting.runtimeconfig.json
+C:\.NET\CsharpChallenges\Voting\bin\Debug\net7.0\Voting.dll
+C:\.NET\CsharpChallenges\Voting\bin\Debug\net7.0\Voting.pdb
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.dll
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\refint\Voting.dll
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.pdb
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\Voting.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\Voting\obj\Debug\net7.0\ref\Voting.dll
