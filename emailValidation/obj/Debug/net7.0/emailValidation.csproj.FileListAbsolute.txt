@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\emailValidation\bin\Debug\net7.0\emailValidation.exe
+C:\.NET\CsharpChallenges\emailValidation\bin\Debug\net7.0\emailValidation.deps.json
+C:\.NET\CsharpChallenges\emailValidation\bin\Debug\net7.0\emailValidation.runtimeconfig.json
+C:\.NET\CsharpChallenges\emailValidation\bin\Debug\net7.0\emailValidation.dll
+C:\.NET\CsharpChallenges\emailValidation\bin\Debug\net7.0\emailValidation.pdb
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.dll
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\refint\emailValidation.dll
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.pdb
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\emailValidation.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\emailValidation\obj\Debug\net7.0\ref\emailValidation.dll

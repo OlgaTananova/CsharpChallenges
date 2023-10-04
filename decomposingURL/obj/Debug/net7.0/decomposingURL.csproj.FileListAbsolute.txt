@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\decomposingURL\bin\Debug\net7.0\decomposingURL.exe
+C:\.NET\CsharpChallenges\decomposingURL\bin\Debug\net7.0\decomposingURL.deps.json
+C:\.NET\CsharpChallenges\decomposingURL\bin\Debug\net7.0\decomposingURL.runtimeconfig.json
+C:\.NET\CsharpChallenges\decomposingURL\bin\Debug\net7.0\decomposingURL.dll
+C:\.NET\CsharpChallenges\decomposingURL\bin\Debug\net7.0\decomposingURL.pdb
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.dll
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\refint\decomposingURL.dll
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.pdb
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\decomposingURL.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\decomposingURL\obj\Debug\net7.0\ref\decomposingURL.dll
