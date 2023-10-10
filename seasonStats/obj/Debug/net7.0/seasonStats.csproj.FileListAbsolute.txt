@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\seasonStats\bin\Debug\net7.0\seasonStats.exe
+C:\.NET\CsharpChallenges\seasonStats\bin\Debug\net7.0\seasonStats.deps.json
+C:\.NET\CsharpChallenges\seasonStats\bin\Debug\net7.0\seasonStats.runtimeconfig.json
+C:\.NET\CsharpChallenges\seasonStats\bin\Debug\net7.0\seasonStats.dll
+C:\.NET\CsharpChallenges\seasonStats\bin\Debug\net7.0\seasonStats.pdb
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.dll
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\refint\seasonStats.dll
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.pdb
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\seasonStats.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\seasonStats\obj\Debug\net7.0\ref\seasonStats.dll
