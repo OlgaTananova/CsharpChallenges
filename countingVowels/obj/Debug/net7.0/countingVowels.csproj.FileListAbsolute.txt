@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\countingVowels\bin\Debug\net7.0\countingVowels.exe
+C:\.NET\CsharpChallenges\countingVowels\bin\Debug\net7.0\countingVowels.deps.json
+C:\.NET\CsharpChallenges\countingVowels\bin\Debug\net7.0\countingVowels.runtimeconfig.json
+C:\.NET\CsharpChallenges\countingVowels\bin\Debug\net7.0\countingVowels.dll
+C:\.NET\CsharpChallenges\countingVowels\bin\Debug\net7.0\countingVowels.pdb
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.dll
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\refint\countingVowels.dll
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.pdb
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\countingVowels.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\countingVowels\obj\Debug\net7.0\ref\countingVowels.dll
