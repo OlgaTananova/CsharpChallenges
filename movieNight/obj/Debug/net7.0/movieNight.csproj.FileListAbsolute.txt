@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\movieNight\bin\Debug\net7.0\movieNight.exe
+C:\.NET\CsharpChallenges\movieNight\bin\Debug\net7.0\movieNight.deps.json
+C:\.NET\CsharpChallenges\movieNight\bin\Debug\net7.0\movieNight.runtimeconfig.json
+C:\.NET\CsharpChallenges\movieNight\bin\Debug\net7.0\movieNight.dll
+C:\.NET\CsharpChallenges\movieNight\bin\Debug\net7.0\movieNight.pdb
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.dll
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\refint\movieNight.dll
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.pdb
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\movieNight.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\movieNight\obj\Debug\net7.0\ref\movieNight.dll
