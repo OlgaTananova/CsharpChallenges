@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\fibSequence\bin\Debug\net7.0\fibSequence.exe
+C:\.NET\CsharpChallenges\fibSequence\bin\Debug\net7.0\fibSequence.deps.json
+C:\.NET\CsharpChallenges\fibSequence\bin\Debug\net7.0\fibSequence.runtimeconfig.json
+C:\.NET\CsharpChallenges\fibSequence\bin\Debug\net7.0\fibSequence.dll
+C:\.NET\CsharpChallenges\fibSequence\bin\Debug\net7.0\fibSequence.pdb
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.dll
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\refint\fibSequence.dll
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.pdb
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\fibSequence.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\fibSequence\obj\Debug\net7.0\ref\fibSequence.dll

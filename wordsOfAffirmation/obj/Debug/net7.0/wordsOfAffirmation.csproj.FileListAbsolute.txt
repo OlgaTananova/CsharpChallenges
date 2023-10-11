@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\wordsOfAffirmation\bin\Debug\net7.0\wordsOfAffirmation.exe
+C:\.NET\CsharpChallenges\wordsOfAffirmation\bin\Debug\net7.0\wordsOfAffirmation.deps.json
+C:\.NET\CsharpChallenges\wordsOfAffirmation\bin\Debug\net7.0\wordsOfAffirmation.runtimeconfig.json
+C:\.NET\CsharpChallenges\wordsOfAffirmation\bin\Debug\net7.0\wordsOfAffirmation.dll
+C:\.NET\CsharpChallenges\wordsOfAffirmation\bin\Debug\net7.0\wordsOfAffirmation.pdb
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.dll
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\refint\wordsOfAffirmation.dll
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.pdb
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\wordsOfAffirmation.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\wordsOfAffirmation\obj\Debug\net7.0\ref\wordsOfAffirmation.dll
