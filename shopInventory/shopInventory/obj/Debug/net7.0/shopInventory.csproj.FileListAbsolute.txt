@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\bin\Debug\net7.0\shopInventory.exe
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\bin\Debug\net7.0\shopInventory.deps.json
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\bin\Debug\net7.0\shopInventory.runtimeconfig.json
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\bin\Debug\net7.0\shopInventory.dll
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\bin\Debug\net7.0\shopInventory.pdb
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.dll
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\refint\shopInventory.dll
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.pdb
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\shopInventory.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\shopInventory\shopInventory\obj\Debug\net7.0\ref\shopInventory.dll

@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\bin\Debug\net7.0\shuffleCards.exe
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\bin\Debug\net7.0\shuffleCards.deps.json
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\bin\Debug\net7.0\shuffleCards.runtimeconfig.json
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\bin\Debug\net7.0\shuffleCards.dll
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\bin\Debug\net7.0\shuffleCards.pdb
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.dll
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\refint\shuffleCards.dll
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.pdb
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\shuffleCards.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\shuffleCards\shuffleCards\obj\Debug\net7.0\ref\shuffleCards.dll

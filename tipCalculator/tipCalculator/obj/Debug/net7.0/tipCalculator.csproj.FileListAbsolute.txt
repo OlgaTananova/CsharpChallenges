@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\bin\Debug\net7.0\tipCalculator.exe
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\bin\Debug\net7.0\tipCalculator.deps.json
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\bin\Debug\net7.0\tipCalculator.runtimeconfig.json
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\bin\Debug\net7.0\tipCalculator.dll
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\bin\Debug\net7.0\tipCalculator.pdb
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.dll
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\refint\tipCalculator.dll
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.pdb
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\tipCalculator.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\tipCalculator\tipCalculator\obj\Debug\net7.0\ref\tipCalculator.dll

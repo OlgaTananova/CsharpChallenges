@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\bin\Debug\net7.0\sendingNewsletters.exe
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\bin\Debug\net7.0\sendingNewsletters.deps.json
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\bin\Debug\net7.0\sendingNewsletters.runtimeconfig.json
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\bin\Debug\net7.0\sendingNewsletters.dll
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\bin\Debug\net7.0\sendingNewsletters.pdb
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.dll
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\refint\sendingNewsletters.dll
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.pdb
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\sendingNewsletters.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\sendingNewsletters\sendingNewsLetters\obj\Debug\net7.0\ref\sendingNewsletters.dll

@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\partyRSVP\bin\Debug\net7.0\partyRSVP.exe
+C:\.NET\CsharpChallenges\partyRSVP\bin\Debug\net7.0\partyRSVP.deps.json
+C:\.NET\CsharpChallenges\partyRSVP\bin\Debug\net7.0\partyRSVP.runtimeconfig.json
+C:\.NET\CsharpChallenges\partyRSVP\bin\Debug\net7.0\partyRSVP.dll
+C:\.NET\CsharpChallenges\partyRSVP\bin\Debug\net7.0\partyRSVP.pdb
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.dll
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\refint\partyRSVP.dll
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.pdb
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\partyRSVP.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\partyRSVP\obj\Debug\net7.0\ref\partyRSVP.dll

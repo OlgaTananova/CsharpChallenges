@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\carDealership\carDealership\bin\Debug\net7.0\carDealership.exe
+C:\.NET\CsharpChallenges\carDealership\carDealership\bin\Debug\net7.0\carDealership.deps.json
+C:\.NET\CsharpChallenges\carDealership\carDealership\bin\Debug\net7.0\carDealership.runtimeconfig.json
+C:\.NET\CsharpChallenges\carDealership\carDealership\bin\Debug\net7.0\carDealership.dll
+C:\.NET\CsharpChallenges\carDealership\carDealership\bin\Debug\net7.0\carDealership.pdb
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.dll
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\refint\carDealership.dll
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.pdb
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\carDealership.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\carDealership\carDealership\obj\Debug\net7.0\ref\carDealership.dll

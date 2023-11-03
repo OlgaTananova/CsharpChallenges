@@ -1,0 +1,14 @@
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\bin\Debug\net7.0\familyGameNight.exe
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\bin\Debug\net7.0\familyGameNight.deps.json
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\bin\Debug\net7.0\familyGameNight.runtimeconfig.json
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\bin\Debug\net7.0\familyGameNight.dll
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\bin\Debug\net7.0\familyGameNight.pdb
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.AssemblyInfoInputs.cache
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.AssemblyInfo.cs
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.dll
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\refint\familyGameNight.dll
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.pdb
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\familyGameNight.genruntimeconfig.cache
+C:\.NET\CsharpChallenges\familyGameNight\familyGameNight\obj\Debug\net7.0\ref\familyGameNight.dll
